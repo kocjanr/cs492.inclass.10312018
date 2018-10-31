@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.oregonstate.cs492inclass10312018">
+    package="edu.oregonstate.kocjanryanviewpage">
 
     <application
         android:allowBackup="true"

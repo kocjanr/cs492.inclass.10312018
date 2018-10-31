@@ -1,4 +1,4 @@
-package edu.oregonstate.cs492inclass10312018;
+package edu.oregonstate.kocjanryanviewpage;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("edu.oregonstate.cs492inclass10312018", appContext.getPackageName());
+        assertEquals("edu.oregonstate.kocjanryanviewpage", appContext.getPackageName());
     }
 }

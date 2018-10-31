@@ -1,4 +1,4 @@
-package edu.oregonstate.cs492inclass10312018;
+package edu.oregonstate.kocjanryanviewpage;
 
 import org.junit.Test;
 
